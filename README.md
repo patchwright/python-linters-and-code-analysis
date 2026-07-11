@@ -38,6 +38,7 @@ Feel free to contribute! Happy to receive PRs.
     [https://github.com/PyCQA/pylint](https://github.com/PyCQA/pylint)
     * flake8-bugbear - A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle:
     [https://github.com/PyCQA/flake8-bugbear](https://github.com/PyCQA/flake8-bugbear)
+    * wildlint - Static checks for bug classes off-the-shelf linters (ruff/flake8/pylint) miss — dead argparse flags, str.replace-as-strip (removeprefix/removesuffix mixups), deep negative indexing, humanizer rounding rollover. Each rule distilled from a real upstream fix. Cross-language (Python/JS/TS/Go/Rust). [https://github.com/patchwright/wildlint](https://github.com/patchwright/wildlint)
     * vulture - Find dead code:
     [https://pypi.python.org/pypi/vulture](https://pypi.python.org/pypi/vulture)
     * pydiatra - Yet another static checker for Python code:
